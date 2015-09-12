@@ -1,0 +1,26 @@
+p{
+    font-size: 26px;
+    text-indent: 2em;
+}
+
+.bg {
+    background-color: azure;
+}
+
+
+#rz {
+    font-family: monospace;
+    font-size: 36px;
+    color: darkred;
+}
+
+h1,
+p,
+th,
+.bg {
+    font-family: 楷体;
+}
+
+form.kk {
+    font-family: 黑体;
+}
