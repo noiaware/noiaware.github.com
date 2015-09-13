@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    padding: 20px;
+    border: 10px;
+}
+
+#div1 {
+    border:10px dashed #369;
+    float: left;
+    background: wheat;
+}
+
+#div2 {
+    border: 10px solid #ccf;
+    float: right;
+    /*background: #369;*/
+}
+
+#div3 {
+    border:10px solid #ffc;
+    float: left;
+    background: grey;
+}
