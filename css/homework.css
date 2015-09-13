@@ -24,3 +24,19 @@ th,
 form.kk {
     font-family: 黑体;
 }
+
+a:link {
+    color: #000;
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color:chartreuse;
+}
