@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 50px;
+    background: #ddd;
+    padding: 20px;
+}
+
+#d1,
+#d2,
+#d3 {
+    padding: 20px;
+    margin: 50px;
+}
+
+#d1 {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    background: #fff;
+    border: 1px dashed #369;
+}
+
+#d2 {
+    background: #cfc;
+    border: 1px solid #ccf;
+}
+#d3 {
+    border: 1px solid #ffc;
+}

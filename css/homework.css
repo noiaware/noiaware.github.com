@@ -46,6 +46,13 @@ p {
     background: #ccf;
 
 }
+
+#footer .logo{
+    margin: auto;
+    alignment: center;
+    font-size: 13px;
+}
+
 #rz {
     font-family: monospace;
     font-size: 36px;
