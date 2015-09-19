@@ -1,4 +1,4 @@
-p{
+p {
     font-size: 26px;
     text-indent: 2em;
 }
@@ -7,7 +7,45 @@ p{
     background-color: azure;
 }
 
+/*layout*/
+#wrapper {
+    width: 1200px;
+    background: #ddd;
+    margin: auto;
+}
 
+#header {
+    height: 300px;
+    background: #fcc;
+}
+.clear{
+    clear: both;
+}
+#content {
+    height: 800px;
+}
+
+
+#left {
+    float: left;
+    width: 900px;
+    background: bisque;
+    height: 800px;
+
+}
+
+#right {
+    float: left;
+    width: 300px;
+    height: 800px;
+    background: #cff;
+}
+
+#footer {
+    height: 100px;
+    background: #ccf;
+
+}
 #rz {
     font-family: monospace;
     font-size: 36px;
@@ -38,5 +76,9 @@ a:hover {
 }
 
 a:active {
-    color:chartreuse;
+    color: chartreuse;
+}
+
+ul li {
+    display: inline;
 }
