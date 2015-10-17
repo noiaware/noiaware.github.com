@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height:1500px;
+    font-size: 13px;
+}
+
+.topNav{
+    width: 100%;
+    height: 45px;
+    background: #0666c5 -webkit-linear-gradient(top,#086ed5,#055db5);
+    position: fixed;
+    border-bottom: 1px solid #044e97;
+
+}
+
+.middle-wrapper{
+    margin: 0 auto;
+    width: 960px;
+    height: inherit;
+    /*important*/
+    clear: both;
+    position: relative;
+    /*display: table;*/
+}
+
+.index-icon{
+    background: url("../img/new_logo.010e8320.png") no-repeat 0 8px;
+    /*float: left;*/
+    display: block;
+    width: 61px;
+    height: 100%;
+    float: left;
+}
+
+input{
+    color: #999;
+    outline: medium none;
+    background: #E1EAF2;
+    margin-top: 7px;
+    margin-left: 10px;
+    padding: 7px 10px;
+    font-size: 13px;
+    line-height: 1.3;
+    float: left;
+    border: 0 none;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,.2),0 1px 0 rgba(255,255,255,.1);
+    border-radius: 4px;
+    width: 345px;
+    text-align: start;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+button{
+    float: left;
+    width: 66px;
+    height: 32px;
+    line-height: 30px;
+    margin-left: 6px;
+    margin-top: 6px;
+    border: 1px solid #045BB2;
+    border-radius: 4px;
+    background: -webkit-linear-gradient(top,#0e7bef,#0d73da);
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 30px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.searchWrapper{
+    display: inline-block;
+    float: left;
+}
+.ulWrapper{
+    float: left;
+    position: relative;
+}
+
+
+
+li {
+    display: inline;
+    margin: 0px;
+}
+
+
+ul{
+    margin-left: 18px;
+}
+
+li a{
+    display: inline-block;
+    width: 54px;
+    height: 45px;
+    text-decoration: none;
+    color: #eee;
+    text-align: center;
+    font-size: 14px;
+    word-wrap: break-word;
+    padding-top: 11px;
+}
+li a:link{
+     -webkit-tap-highlight-color:rgba(225,225,225,.5);
+ }
+
+li a:visited{
+    background: -webkit-linear-gradient(top,#055fb8,#095fb3);
+}
+
+li a:hover{
+    background: -webkit-linear-gradient(top,#055fb8,#095fb3);
+    height: 100%;
+    color: #ffffff;
+}
+
+li a:active{
+    background: -webkit-linear-gradient(top,#055fb8,#095fb3);
+    color: #EEE;
+}
+
+
+
+
+
+
+

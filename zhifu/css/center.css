@@ -87,3 +87,44 @@ span.vote{
 .story-content-answer p{
     margin-left: 44px;
 }
+
+#footer
+{
+    /*font-family:ËÎÌו;*/
+    font-size: 12px;
+    color: rgb(174, 189, 201);
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.8);
+    margin: auto;
+    text-align: center;
+}
+
+#footer a{
+    text-decoration: none;
+    color: rgb(174, 189, 201);
+
+}
+
+
+.dot {
+    margin: 0px 3px;
+
+}
+.icon-applink-iphone{
+    background-position: 0px -23px;
+    width: 153px;
+    height: 38px;
+}
+.icon-applink-android {
+    background-position: 0px -61px;
+    width: 183px;
+    height: 38px;
+}
+
+.app-link{
+    margin-left: 30px;
+}
+
+.links{
+    display: inline-block;
+
+}
