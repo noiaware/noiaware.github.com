@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/css/css.iml" filepath="$PROJECT_DIR$/css/css.iml" />
       <module fileurl="file://$PROJECT_DIR$/cssTraining/csswork.iml" filepath="$PROJECT_DIR$/cssTraining/csswork.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSE/javaSE.iml" filepath="$PROJECT_DIR$/javaSE/javaSE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zhifu/zhifu.iml" filepath="$PROJECT_DIR$/zhifu/zhifu.iml" />
       <module fileurl="file://$PROJECT_DIR$/noiaware.github.com.iml" filepath="$PROJECT_DIR$/noiaware.github.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhifu/zhifu.iml" filepath="$PROJECT_DIR$/zhifu/zhifu.iml" />
     </modules>
   </component>
 </project>
